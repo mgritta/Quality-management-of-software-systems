@@ -1,0 +1,17 @@
+{
+  "name": "string_put",
+  "data": {
+    "bool": false,
+    "int": 2000,
+    "float": 3.5,
+    "string": "string_put",
+    "array": [
+      "one",
+      "two",
+      "three"
+    ],
+    "obj": {
+      "name": "there is no text here"
+    }
+  }
+}
